@@ -27,3 +27,5 @@ Visualizations are then designed using Power BI's extensive library, ensuring a 
 This interactive Power BI dashboard provides a comprehensive overview of business performance, empowering users to make data-driven decisions efficiently and effectively.
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/e04f4ee8-cf5f-4a21-b35d-2a211e47aedc)
